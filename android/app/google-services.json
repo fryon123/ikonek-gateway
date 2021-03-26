@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68800941993",
+    "project_id": "ikonek-44d63",
+    "storage_bucket": "ikonek-44d63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68800941993:android:9911b0bc5b20f348313eb8",
+        "android_client_info": {
+          "package_name": "com.leibnizsolns.sms_gateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68800941993-thqceu7rl8djqos16eatjbptdh5i668e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEW5GnsBq2Js9LfmcT_M9bEcZbGrO9XTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68800941993-thqceu7rl8djqos16eatjbptdh5i668e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
